@@ -33,9 +33,9 @@ P&ush>*.*<推送>*.*<選單-倉庫>*.*<main
 Pu&ll>*.*<拉取>*.*<選單-倉庫>*.*<main
 &Remove…>*.*<刪除>*.*<選單-倉庫>*.*<main
 &View on GitHub>*.*<在 GitHub 上檢視>*.*<選單-倉庫>*.*<main
-O&pen in ${t??"Command Prompt"}>*.*<在${t ?? ""}中開啟>*.*<選單-倉庫>*.*<main
-Show in E&xplorer>*.*<在資源管理器中顯示>*.*<選單-倉庫>*.*<main
-&Open in ${e??"external editor"}>*.*<在 ${e ?? ""}中開啟>*.*<選單-倉庫>*.*<main
+O&pen in ${t??"Command Prompt"}>*.*<在 ${t ?? ""} 中開啟此倉庫>*.*<選單-倉庫>*.*<main
+Show in E&xplorer>*.*<在檔案總管中開啟此倉庫>*.*<選單-倉庫>*.*<main
+&Open in ${e??"external editor"}>*.*<在 ${e ?? ""} 中開啟此倉庫>*.*<選單-倉庫>*.*<main
 Create &issue on GitHub>*.*<在 GitHub 上建立問題 (issue)>*.*<選單-倉庫>*.*<main
 Repository &settings…>*.*<儲存庫設定>*.*<選單-倉庫>*.*<main
 &Branch>*.*<分支>*.*<選單-分支>*.*<main
@@ -108,7 +108,7 @@ Publish this repository to GitHub>*.*<將此倉庫釋出到 GitHub>*.*<待分組
 Rebase in progress>*.*<正在重設變基>*.*<待分組>*.*<render
 Publish this branch to GitHub>*.*<將此分支釋出到 GitHub>*.*<待分組>*.*<render
 Publish this branch to the remote>*.*<將此分支釋出到遠端>*.*<待分組>*.*<render
-Fetch ${e}>*.*<同步(拉取然後推送) ${e}>*.*<待分組>*.*<render
+Fetch ${e}>*.*<同步 (拉取然後推送) ${e}>*.*<待分組>*.*<render
 Force push ${e}>*.*<強制推送 ${e}>*.*<待分組>*.*<render
 Pull ${e} with rebase>*.*<拉取 ${e} 至變基>*.*<待分組>*.*<render
 Pull ${e}>*.*<拉取 ${e}>*.*<待分組>*.*<render
@@ -116,7 +116,7 @@ Pull ${e}>*.*<拉取 ${e}>*.*<待分組>*.*<render
 "History")>*.*<"歷史")>*.*<待分組>*.*<render
 No local changes">*.*<本地無更改">*.*<待分組>*.*<render
 There are no uncommitted changes in this repository. Here are some friendly suggestions for what to do next.>*.*<此儲存庫中沒有未提交的更改>*.*<待分組>*.*<render
-Summary (required)>*.*<摘要(必填)>*.*<待分組>*.*<render
+Summary (required)>*.*<摘要 (必填)>*.*<待分組>*.*<render
 Create ${i}>*.*<建立 ${i}>*.*<待分組>*.*<render
 Delete ${i}>*.*<刪除 ${i}>*.*<待分組>*.*<render
 Update ${i}>*.*<更新 ${i}>*.*<待分組>*.*<render
@@ -194,7 +194,7 @@ Undo is disabled while the repository is being updated>*.*<更新倉庫時禁用
 "Integrations")>*.*<"整合")>*.*<待分組>*.*<render
 "Appearance")>*.*<"主題")>*.*<待分組>*.*<render
 "Prompts")>*.*<"提示")>*.*<待分組>*.*<render
-"Advanced")>*.*<"高階")>*.*<待分組>*.*<render
+"Advanced")>*.*<"進階")>*.*<待分組>*.*<render
 "Applications">*.*<"應用">*.*<待分組>*.*<render
 Show a confirmation dialog before...>*.*<確認對話方塊>*.*<待分組>*.*<render
 Removing repositories>*.*<刪除倉庫>*.*<待分組>*.*<render
